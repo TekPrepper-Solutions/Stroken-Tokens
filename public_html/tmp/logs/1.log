@@ -1,0 +1,5 @@
+/usr/bin/php /home/admin/web/stroken.com/public_html/scripts/convert_videos.php 1.wmv 1 /home/admin/web/stroken.com/public_html/media/videos/vid/1.wmv
+/home/admin/web/stroken.com/public_html/media/bin/ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 /home/admin/web/stroken.com/public_html/media/videos/vid/1.wmv
+30.093000
+/home/admin/web/stroken.com/public_html/media/bin/ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 /home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4
+30.116000

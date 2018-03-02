@@ -1,0 +1,42 @@
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:19 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:03 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:04 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:05 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:07 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:08 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:09 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:11 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:12 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:13 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:15 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:16 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:17 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:18 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:20 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:21 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:22 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:24 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:25 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:26 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
+/home/admin/web/stroken.com/public_html/media/bin/ffmpeg -ss 00:00:28 -i '/home/admin/web/stroken.com/public_html/media/videos/h264/1_720p.mp4' -r 1 -vframes 1 -an -vcodec mjpeg -y /home/admin/web/stroken.com/public_html/tmp/thumbs/1/%08d.jpg
+
